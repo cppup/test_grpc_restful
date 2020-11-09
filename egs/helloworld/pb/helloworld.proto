@@ -3,7 +3,7 @@ syntax = "proto3";
 package helloworld;
 
 
-option go_package = "github.com/cppup/test_grpc_restful/gen/go/pb";
+option go_package = "github.com/cppup/test_grpc_restful/egs/helloworld/gen/go/pb";
 
 import "google/api/annotations.proto";  // Added 1
 
